@@ -1483,3 +1483,10 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.11.09-13.46.35:192][ 81]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
 [2022.11.09-13.46.35:197][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
 [2022.11.09-13.46.35:224][ 82]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2022.11.09-13.48.20:034][380]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="../../../../../../Users/이종원/Desktop/UE5/Unreal-Engine-5/WarehouseWreckage/Content/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.11.09-13.48.20:054][380]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2022.11.09-13.48.20:089][380]LogSavePackage: Moving output files for package: /Game/Main
+[2022.11.09-13.48.20:090][380]LogSavePackage: Moving '../../../../../../Users/이종원/Desktop/UE5/Unreal-Engine-5/WarehouseWreckage/Saved/Main45A84CD846616ACD3EC1579977823A81.tmp' to '../../../../../../Users/이종원/Desktop/UE5/Unreal-Engine-5/WarehouseWreckage/Content/Main.umap'
+[2022.11.09-13.48.20:098][380]LogFileHelpers: 저장할 변경내용이 없습니다!
+[2022.11.09-13.48.20:110][380]AssetCheck: New page: 에셋 저장:  Main
+[2022.11.09-13.48.20:110][380]LogContentValidation: Display: World /Game/Main.Main 유효성 검사 중
